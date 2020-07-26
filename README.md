@@ -22,6 +22,7 @@ Based on the <a href="https://github.com/brorbw/nord">Nord</a> color palette.</p
 
 
 ## Shoutout 
+* **Original Nord theme** - The original dark Nord theme <https://github.com/arcticicestudio/nord-iterm2>
 * **yabai** - Tiling window manager for macOS <https://github.com/koekeishiya/yabai>
 * **Doom Emacs** - If emacs and vim had a baby <https://github.com/hlissner/doom-emacs>
 * **iTerm2** - Like terminal just better <https://iterm2.com/>
